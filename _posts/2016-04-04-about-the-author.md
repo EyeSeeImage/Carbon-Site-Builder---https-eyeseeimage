@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MNO"
+title: "Project 6"
 author: "Paul Le"
 categories: facts
 tags: [sample]

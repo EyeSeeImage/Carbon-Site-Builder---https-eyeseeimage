@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "GHI"
+title: "Project 4"
 author: "Paul Le"
 categories: sample
 tags: [sample]

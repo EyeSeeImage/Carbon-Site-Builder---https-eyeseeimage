@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DEF"
+title: "Project 2"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]

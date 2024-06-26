@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Something"
+title: "Project 3"
 author: "Paul Le"
 categories: facts
 tags: [sample]
